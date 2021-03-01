@@ -1,4 +1,4 @@
-# Science Fair Project - 2021
+# Food Waste Project - 2021
 
 Experts estimate supermarkets are responsible for 10% of U.S. food waste, accounting for 43 billion pounds of waste and $18.2 billion in lost value annually. When food waste goes to landfills and rots, it produces methane, a greenhouse gas that is 84 times more potent than carbon dioxide. The Retail Food Waste Action Guide recommends enhanced demand forecasting as the primary mechanism to reduce food waste.
 
